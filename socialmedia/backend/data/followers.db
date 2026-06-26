@@ -1,0 +1,2 @@
+{"$$indexCreated":{"fieldName":"followerId","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"followingId","unique":false,"sparse":false}}
